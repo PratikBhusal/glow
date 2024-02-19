@@ -185,8 +185,8 @@ For additional usage details see:
 glow --help
 ```
 
-Check out the [Glamour Style Section](https://github.com/charmbracelet/glamour/blob/master/styles/gallery/README.md)
-to find more styles. Or [make your own](https://github.com/charmbracelet/glamour/tree/master/styles)!
+Check out the [Glamour Style Section](https://github.com/PratikBhusal/glamour/blob/master/styles/gallery/README.md)
+to find more styles. Or [make your own](https://github.com/PratikBhusal/glamour/tree/master/styles)!
 
 ## The Config File
 
