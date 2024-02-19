@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/charmbracelet/glamour"
+	"github.com/PratikBhusal/glamour"
 	"github.com/charmbracelet/glow/ui"
 	"github.com/charmbracelet/glow/utils"
 	"github.com/meowgorithm/babyenv"
